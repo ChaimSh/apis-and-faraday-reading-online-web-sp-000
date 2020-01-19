@@ -8,6 +8,7 @@
 
 ## Lesson
 
+
 Let's use the [search](https://developer.foursquare.com/docs/venues/search) venue API to find a place to grab some coffee. Read through the documentation and use Postman to construct an API call to find coffee shops near you.
 
 We want to pass parameters of `near` and `query`, along with our `client_secret`, `client_id`, and `v` parameters.
